@@ -47,24 +47,7 @@ python password_generator.py
 
 ### Example Interaction
 
-```text
-==================================================
-      🔒 SECURE RANDOM PASSWORD GENERATOR 🔒      
-==================================================
-This utility generates strong, randomized passwords.
-Designed as an educational tool for Python built-in modules.
---------------------------------------------------
-Enter the desired password length (minimum 8 recommended): 12
-Include numbers (e.g., 0-9)? (y/n, default=y): y
-Include special characters (e.g., !, @, #, $)? (y/n, default=y): y
---------------------------------------------------
-🎉 Password generated successfully!
-Password: gH7$xP2!mK9q
---------------------------------------------------
-```
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f43c4737-6245-4139-bf00-0701113d5f78" />
 
-
-
-## 🔒 Security Notice
-
-For production-grade software and cryptographic operations, **do not use** the `random` module because it uses a pseudo-random number generator (PRNG) which can be predictable. Instead, use Python's built-in **`secrets`** module, which is designed to generate cryptographically strong random numbers suitable for managing secrets such as passwords, account authentication, security tokens, and related secrets.
+##  Author
+Vivek Batham | Python Programming Intern | DecodeLabs | Batch 2026
