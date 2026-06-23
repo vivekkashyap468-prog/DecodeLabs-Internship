@@ -47,3 +47,8 @@ total += new_expense
 - **Robust Error Handling**: Handles non-numeric inputs gracefully without crashing.
 - **Negative Value Check**: Ensures negative amounts are flagged to maintain accurate spending stats.
 - **Exit Command**: Type `q`, `quit`, or `exit` to finalize your logging session and view your summary report.
+
+
+## Author
+
+Vivek Batham | Python Programming Intern | DecodeLabs | Batch 2026
